@@ -1,6 +1,6 @@
 # low-power-iot-security-ascon-aesgcm
 
-##  Demo Video
+##  Video Link
 > 🔗 https://youtu.be/BpkBcQrJ3DM
 
 ---
