@@ -1,4 +1,4 @@
-# Energy-Efficient Security in Low-Power IoT Networks
+# low-power-iot-security-ascon-aesgcm
 
 ##  Demo Video
 > 🔗 https://youtu.be/BpkBcQrJ3DM
